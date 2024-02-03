@@ -1,0 +1,2 @@
+This is a react example of a modal component. It uses the useState hook: modalVisible and formData.
+The handleFormSubmit function is defined. This function is passed to the Form component and is called when the Form is submitted. It updates formData with the submitted data and hides the Modal. The form also uses useState to store the submitted data and has basic validation that is displayed when necessary.
